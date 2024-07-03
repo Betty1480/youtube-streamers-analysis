@@ -17,3 +17,4 @@ Familiarize yourself with basic statistics (mean, median, mode, standard deviati
 Visualization Inspiration:
 Explore Tableau Public or D3.js gallery for creative visualization ideas.
 Read “Storytelling with Data” by Cole Nussbaumer Knaflic for visualization principles.
+[click here](https://colab.research.google.com/drive/1hAM2eR_YxT1l0hD3f1jizFwJdBrWdvaF?usp=sharing)
